@@ -23,7 +23,7 @@ require_once "classes/conexao.php";
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.css">
     <script src="lib/jquery-3.2.1.min.js"></script>
 	<script src="js/funcoes.js"></script>
