@@ -1,5 +1,7 @@
 <?php 
 
+session_start();
+
 class conectar{
 	private $servidor = "localhost";
 	private $usuario = "root";
