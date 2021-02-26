@@ -29,7 +29,7 @@ session_start();
     </header>
     <main>
         <!-- <section id="sobre">Sobre</section>
-        <section id="portfolio">Portfólio</section>
+        <section id="Games">Portfólio</section>
         <section id="produtos">Produtos</section>
         <section id="contatos">Contatos</section> -->
     </main>
