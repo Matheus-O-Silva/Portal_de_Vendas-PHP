@@ -1,5 +1,5 @@
 <?php 
-
+// conexão com o bd
 session_start();
 
 class conectar{
